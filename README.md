@@ -121,5 +121,6 @@ Collection of small prototypes exploring automation and AI workflows.
 
 
 
-# DivyanshuNathTriapthi
+# Divyanshu Nath Tripathi
+
 
